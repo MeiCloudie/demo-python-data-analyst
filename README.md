@@ -75,3 +75,5 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với hai
 - Phân tích dữ liệu chuẩn bị cho việc dự đoán số tiền mua sắm của khách hàng
 
 > Trong các phần tiếp theo, chúng ta sẽ đi vào chi tiết cách xử lý và phân tích hai bộ dữ liệu này, sử dụng các thư viện Python như Numpy, Pandas và Matplotlib để thực hiện các bước từ làm sạch dữ liệu, khám phá dữ liệu, đến phân tích dữ liệu để chuẩn bị cho việc xây dựng mô hình dự đoán.
+
+> Bộ DataSet được lấy từ nguồn [Kaggle](https://www.kaggle.com/datasets)
