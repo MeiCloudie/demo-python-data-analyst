@@ -60,7 +60,7 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với hai
 
 1. Mô tả:
 
-- Black Friday Sales là một bộ dữ liệu bao gồm các giao dịch bán hàng được ghi lại tại một cửa hàng bán lẻ. Đây là một bộ dữ liệu điển hình để khám phá và mở rộng kỹ năng tạo đặc trưng (feature engineering) cũng như hiểu biết từ các trải nghiệm mua sắm hàng ngày. Đây là một bài toán hồi quy, với bộ dữ liệu chứa 550,069 dòng và 12 cột
+- Black Friday Sales là một bộ dữ liệu bao gồm các giao dịch bán hàng được ghi lại tại một cửa hàng bán lẻ. Đây là một bộ dữ liệu điển hình để khám phá và mở rộng kỹ năng tạo đặc trưng (feature engineering) cũng như hiểu biết từ các trải nghiệm mua sắm hàng ngày. Đây là một bài toán hồi quy, với bộ dữ liệu chứa hơn 500,000 dòng và 12 cột
 
 2. Ứng dụng:
 
