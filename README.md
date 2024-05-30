@@ -33,7 +33,7 @@
 - Tùy chỉnh biểu đồ
 - Lưu đồ
 
-### THỰC HÀNH VÀ ỨNG DỤNG
+### 💡 THỰC HÀNH VÀ ỨNG DỤNG
 
 Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với hai bộ dataset: Bigmart Sales và Black Friday Sales. Cả hai đều là những ví dụ điển hình trong việc sử dụng khoa học dữ liệu để giải quyết các vấn đề trong ngành bán lẻ.
 
