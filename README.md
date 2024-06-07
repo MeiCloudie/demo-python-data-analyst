@@ -94,6 +94,22 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với cá
 
 - Phân tích dữ liệu để tìm hiểu các xu hướng, đặc điểm của các cầu thủ đã giành được giải thưởng Ballon d'Or qua các năm và xác định các yếu tố ảnh hưởng đến việc giành giải thưởng này.
 
+#### **Heart Failure**
+
+1. **Mô tả**:
+
+- Dataset Heart Failure bao gồm các dữ liệu y tế về bệnh nhân suy tim, với mục đích dự đoán khả năng bệnh nhân bị suy tim dựa trên nhiều thuộc tính khác nhau. Đây là một bài toán phân loại nhị phân với nhiều đặc điểm số và đặc điểm phân loại.
+
+2. **Ứng dụng**:
+
+- Phân tích dữ liệu y tế: Giúp phân tích các yếu tố nguy cơ dẫn đến suy tim.
+- Phát triển mô hình học máy: Dữ liệu có thể được sử dụng để phát triển các mô hình học máy nhằm dự đoán khả năng suy tim của bệnh nhân.
+- Hỗ trợ ra quyết định: Giúp bác sĩ và các chuyên gia y tế đưa ra các quyết định điều trị và quản lý sớm đối với các bệnh nhân có nguy cơ cao.
+
+3. **Vấn đề cần giải quyết**
+
+- Phân tích dữ liệu để tìm hiểu các xu hướng, đặc điểm của các bệnh nhân có nguy cơ suy tim và xây dựng mô hình dự đoán khả năng suy tim.
+
 <hr>
 
 > Trong các phần tiếp theo, chúng ta sẽ đi vào chi tiết cách xử lý và phân tích hai bộ dữ liệu này, sử dụng các thư viện Python như Numpy, Pandas và Matplotlib để thực hiện các bước từ làm sạch dữ liệu, khám phá dữ liệu, đến phân tích dữ liệu để chuẩn bị cho việc xây dựng mô hình dự đoán.
