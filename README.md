@@ -110,6 +110,22 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với cá
 
 - Phân tích dữ liệu để tìm hiểu các xu hướng, đặc điểm của các bệnh nhân có nguy cơ suy tim và xây dựng mô hình dự đoán khả năng suy tim.
 
+#### **Student's Academic Performance**
+
+1. **Mô tả**:
+
+- Dataset Students' Academic Performance bao gồm dữ liệu về kết quả học tập của học sinh, với mục đích phân tích các yếu tố ảnh hưởng đến hiệu suất học tập của học sinh. Đây là một bài toán phân loại hoặc hồi quy với nhiều đặc điểm số và phân loại.
+
+2. **Ứng dụng**:
+
+- Phân tích dữ liệu giáo dục: Giúp phân tích các yếu tố ảnh hưởng đến kết quả học tập của học sinh.
+- Phát triển mô hình học máy: Dữ liệu có thể được sử dụng để phát triển các mô hình học máy nhằm dự đoán kết quả học tập của học sinh.
+- Hỗ trợ ra quyết định: Giúp giáo viên và nhà quản lý giáo dục đưa ra các quyết định hỗ trợ và cải thiện chất lượng giảng dạy.
+
+3. **Vấn đề cần giải quyết**
+
+- Phân tích dữ liệu để tìm hiểu các xu hướng, đặc điểm của các học sinh có kết quả học tập khác nhau và xây dựng mô hình dự đoán hiệu suất học tập.
+
 <hr>
 
 > Trong các phần tiếp theo, chúng ta sẽ đi vào chi tiết cách xử lý và phân tích hai bộ dữ liệu này, sử dụng các thư viện Python như Numpy, Pandas và Matplotlib để thực hiện các bước từ làm sạch dữ liệu, khám phá dữ liệu, đến phân tích dữ liệu để chuẩn bị cho việc xây dựng mô hình dự đoán.
