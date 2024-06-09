@@ -37,7 +37,7 @@
 
 Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với các bộ DataSet:
 
-#### **Bigmart Sales**
+#### 1️⃣ **Bigmart Sales**
 
 1. **Mô tả**:
 
@@ -56,7 +56,7 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với cá
 
 - Phân tích dữ liệu chuẩn bị cho việc dự đoán doanh số bán hàng của một cửa hàng
 
-#### **Black Friday Sales**
+#### 2️⃣ **Black Friday Sales**
 
 1. **Mô tả**:
 
@@ -74,7 +74,7 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với cá
 
 - Phân tích dữ liệu chuẩn bị cho việc dự đoán số tiền mua sắm của khách hàng
 
-#### **Golden Ball (The Ballon d'Or)**
+#### 3️⃣ **Golden Ball (The Ballon d'Or)**
 
 1. **Mô tả**:
 
@@ -94,7 +94,7 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với cá
 
 - Phân tích dữ liệu để tìm hiểu các xu hướng, đặc điểm của các cầu thủ đã giành được giải thưởng Ballon d'Or qua các năm và xác định các yếu tố ảnh hưởng đến việc giành giải thưởng này.
 
-#### **Heart Failure**
+#### 4️⃣ **Heart Failure**
 
 1. **Mô tả**:
 
@@ -110,7 +110,7 @@ Trong phần này, chúng ta sẽ thực hành phân tích dữ liệu với cá
 
 - Phân tích dữ liệu để tìm hiểu các xu hướng, đặc điểm của các bệnh nhân có nguy cơ suy tim và xây dựng mô hình dự đoán khả năng suy tim.
 
-#### **Student's Academic Performance**
+#### 5️⃣ **Student's Academic Performance**
 
 1. **Mô tả**:
 
